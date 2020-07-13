@@ -1,0 +1,13 @@
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.exe
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.deps.json
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.runtimeconfig.json
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.runtimeconfig.dev.json
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.dll
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\bin\Debug\netcoreapp3.1\Car-Reflection.pdb
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.csprojAssemblyReference.cache
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.AssemblyInfoInputs.cache
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.AssemblyInfo.cs
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.dll
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.pdb
+C:\Users\Takayanagi\source\repos\Car-Reflection\Car-Reflection\obj\Debug\netcoreapp3.1\Car-Reflection.genruntimeconfig.cache
